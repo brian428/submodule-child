@@ -1,1 +1,2 @@
 Initial child text
+Change child directly.
