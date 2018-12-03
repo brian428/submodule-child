@@ -1,3 +1,4 @@
 Initial child text
 Change child directly.
 Change child directly again.
+Another direct update.
