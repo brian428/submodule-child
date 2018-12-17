@@ -1,1 +1,2 @@
 Initial child 2 text.
+Updated in child repo.
