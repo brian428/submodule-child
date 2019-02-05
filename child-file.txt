@@ -5,3 +5,6 @@ Another direct update.
 Update through parent.
 Another update through parent.
 Yet another update through parent.
+
+NEW:
+Change child within parent.
